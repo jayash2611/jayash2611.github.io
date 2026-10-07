@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ioio.github.jayash2611.taptracker",
+    "sha256_cert_fingerprints": ["85:E4:7E:B3:3F:46:AB:37:D7:1E:5A:CB:D1:A5:1B:21:AB:68:F2:A4:42:ED:A8:70:78:62:87:E5:37:0D:CE:6B"]
+  }
+}]
